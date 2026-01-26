@@ -10,3 +10,4 @@ repository will be reflected there.
 
 **NOTE**: as of 2021-08-09, the default branch of this repository has
 been renamed from 'master' to 'main'.
+Created by Jason Scott Heise
